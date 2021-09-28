@@ -1,0 +1,31 @@
+body{
+	font-family:sans-serif;
+}
+
+.container{
+	margin-left:5%;
+	margin-right:5%;
+	margin-top:40px;
+	text-align:justify;
+	line-height: 200%;
+}
+
+.read-more{
+	display:none;
+}
+
+button{
+	width:130px;
+	border:1px solid white;
+	padding:8px;
+	cursor:pointer;
+	background:#000;
+	color:#fff;
+	font-family:sans-serif;
+	border-radius:5px;
+}
+
+.fas{
+	margin-left:10px;
+	line-height: 5px;
+}
